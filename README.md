@@ -21,6 +21,11 @@ rgb_to_hex_color.rgb #=> [170, 187, 204]
 rgb_to_hex_color.hex #=> '#AABBCC'
 ```
 
+## Related Gem
+
+[HexToRgb](https://github.com/kyletolle/hex_to_rgb) - Convert hex colors into
+rgb colors.
+
 ## Development
 
 ### Install
