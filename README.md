@@ -1,5 +1,7 @@
 # RgbToHexColor
 
+[![Gem Version](https://badge.fury.io/rb/rgb_to_hex_color.svg)](http://badge.fury.io/rb/rgb_to_hex_color)
+
 Turn a tuple of rgb colors into its corresponding hexadecimal color value!
 
 ## Install
